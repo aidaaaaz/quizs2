@@ -1,4 +1,4 @@
-let message = "benr"
+gitlet message = "benr"
 console.log(message, typeof message)
 /////
 message = 123
